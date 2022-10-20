@@ -1,5 +1,6 @@
 **Spanish Wine**
 Understanding the wine prices in correlation to popularity rating and type of wine
+
 Author: Alice Chen
 
 **Business problem:**
