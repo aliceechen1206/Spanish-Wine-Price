@@ -1,14 +1,16 @@
 **Spanish Wine**
-Understanding the wine prices in correlation to popularity rating and type of wine
+Understanding the wine prices in correlation to popularity rating and type of wine.
+Client recently decided to purchase a local alcohol retailer to fill with his favorite Spanish Wine to share with his community but does not know what price to sell them. 
+Powerpoint Presentation Slides: https://docs.google.com/presentation/d/1y9j8nCU3-lZeXDzci4aNA_1GbdX6kPi3AB9MRWQsADg/edit#slide=id.p
 
 Author: Alice Chen
 
 **Business problem:**
-Popularity and wine type affect the price of wine
+Popularity and wine type affect the price of wine. We will provide the suggested price for each bottle based on the type of wine and the rating.
 
 
 **Methods**
-Using Barplot, Seaborn, PCA KNN, Pandas and Numpy for exploration of relationship between groups.
+The dataset that will be used contains more than 7000 different types of red wines from Spain with 11 features that describe their origin, price, and rating. Using Barplot, Seaborn, PCA KNN, Pandas and Numpy for exploration of relationship between groups and predict the pricing for each wine.
 
 **Results**
 
@@ -30,7 +32,7 @@ The barplot comparing the rating and price shows that the wine priced at 600 the
 
 
 **Recommendations:**
-PCA KNN model would be the better choice as the allowed us to predict the average price of the wine is about $57. The cheaper wine rating are lower than the pricer wine although is still rated 4 out of 5
+The model shows better result when it is priced below $500. Since there are wines that are over $500 to get the best result, it would be best to find a dataset model to fit the expensive wines. 
 
 **For further information**
 For any additional questions, please contact aliceechen1206@gmail.com
