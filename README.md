@@ -1,6 +1,7 @@
 **Spanish Wine**
 Understanding the wine prices in correlation to popularity rating and type of wine.
 Client recently decided to purchase a local alcohol retailer to fill with his favorite Spanish Wine to share with his community but does not know what price to sell them. 
+
 Powerpoint Presentation Slides: https://docs.google.com/presentation/d/1y9j8nCU3-lZeXDzci4aNA_1GbdX6kPi3AB9MRWQsADg/edit#slide=id.p
 
 Author: Alice Chen
